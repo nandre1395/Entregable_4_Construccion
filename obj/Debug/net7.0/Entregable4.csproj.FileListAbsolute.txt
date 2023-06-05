@@ -1,0 +1,1656 @@
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.2.w9r025hrrs.js
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Entregable4.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Entregable4.pdb
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt.dat
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.2.w9r025hrrs.js.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Entregable4.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Entregable4.pdb.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Entregable4.staticwebassets.runtime.json
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Entregable4.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Entregable4.pdb
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.CSharp.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.VisualBasic.Core.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Win32.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\Microsoft.Win32.Registry.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.AppContext.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Buffers.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Collections.Concurrent.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Collections.Immutable.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Collections.NonGeneric.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Collections.Specialized.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Collections.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.ComponentModel.Annotations.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.ComponentModel.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.ComponentModel.TypeConverter.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.ComponentModel.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Configuration.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Console.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Core.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Data.Common.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Data.DataSetExtensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Data.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Diagnostics.Contracts.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Diagnostics.Debug.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Diagnostics.Process.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Diagnostics.StackTrace.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Diagnostics.Tools.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Diagnostics.TraceSource.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Diagnostics.Tracing.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Drawing.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Drawing.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Dynamic.Runtime.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Formats.Asn1.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Formats.Tar.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Globalization.Calendars.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Globalization.Extensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Globalization.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.Compression.Brotli.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.Compression.FileSystem.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.Compression.ZipFile.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.Compression.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.FileSystem.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.FileSystem.Watcher.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.FileSystem.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.IsolatedStorage.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.MemoryMappedFiles.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.Pipes.AccessControl.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.Pipes.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.IO.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Linq.Expressions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Linq.Parallel.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Linq.Queryable.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Linq.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Memory.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.Http.Json.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.Http.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.HttpListener.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.Mail.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.NameResolution.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.NetworkInformation.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.Ping.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.Quic.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.Requests.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.Security.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.ServicePoint.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.Sockets.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.WebClient.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.WebHeaderCollection.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.WebProxy.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.WebSockets.Client.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.WebSockets.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Net.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Numerics.Vectors.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Numerics.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.ObjectModel.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Private.DataContractSerialization.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Private.Uri.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Private.Xml.Linq.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Private.Xml.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Reflection.DispatchProxy.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Reflection.Emit.Lightweight.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Reflection.Emit.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Reflection.Extensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Reflection.Metadata.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Reflection.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Reflection.TypeExtensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Reflection.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Resources.Reader.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Resources.ResourceManager.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Resources.Writer.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.Extensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.Handles.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.InteropServices.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.Intrinsics.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.Loader.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.Numerics.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.Serialization.Formatters.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.Serialization.Json.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.Serialization.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.Serialization.Xml.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.Serialization.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Runtime.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Security.AccessControl.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Security.Claims.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.Algorithms.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.Cng.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.Csp.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.Encoding.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.Primitives.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Security.Principal.Windows.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Security.Principal.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Security.SecureString.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Security.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.ServiceModel.Web.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.ServiceProcess.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Text.Encoding.Extensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Text.Encoding.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Text.RegularExpressions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Threading.Channels.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Threading.Overlapped.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Threading.Tasks.Extensions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Threading.Tasks.Parallel.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Threading.Tasks.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Threading.Thread.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Threading.ThreadPool.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Threading.Timer.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Threading.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Transactions.Local.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Transactions.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.ValueTuple.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Web.HttpUtility.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Web.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Windows.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Xml.Linq.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Xml.ReaderWriter.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Xml.Serialization.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Xml.XDocument.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Xml.XPath.XDocument.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Xml.XPath.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Xml.XmlDocument.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Xml.XmlSerializer.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Xml.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\WindowsBase.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\mscorlib.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\netstandard.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\System.Private.CoreLib.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\dotnet.js
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\dotnet.timezones.blat
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\dotnet.wasm
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\icudt.dat
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\icudt_CJK.dat
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\icudt_EFIGS.dat
+C:\Users\Juand\ConstSoft_V\Entregable4\bin\Debug\net7.0\icudt_no_CJK.dat
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\Entregable4.csproj.AssemblyReference.cache
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\Entregable4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\Entregable4.AssemblyInfoInputs.cache
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\Entregable4.AssemblyInfo.cs
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\Entregable4.csproj.CoreCompileInputs.cache
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\Entregable4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\+ZRFlJzK.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\2E0KYhDQ.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\gw0j6UXS.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\aAcs85Ta.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\CAAJUy8I.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\HrMj+MOX.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\0IgL+oYn.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\LciyJOK+.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\j7oR7+sm.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\p5ouLNYG.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\Q51K8kL8.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\cyW2y5Qd.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\6r+sTdCb.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\MfSFTh9+.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\hWGIK54S.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\qcEuRNwT.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\wJ0+wMOL.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\ZI9zadiD.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\AiKj96yK.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\CDNj24k+.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\5mqHT6Tg.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\0tFZVwwH.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\sdK+I3MF.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\2RglxOAJ.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\qyWVKjZ2.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\0JVc02hV.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\yAVpctOB.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\mSOkiLsj.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\mSIE4SV2.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\kbLBGv7K.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\53hROPth.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\p9c9vmvi.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\x6VWkofF.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\fUe3W0DM.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\dK3DKIqo.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\nQR9LT8E.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\90mH+Yly.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\6pUHNFCO.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\5QSMdXHV.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\HrZL9+Bm.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\f9YlyoS1.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\cUlTl6+y.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\PywXz7NF.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\B+G1aqGz.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\oPJ0cWdO.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\hGaItToK.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\PCqBoTrD.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\ewUJAyzq.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\1nMyKIK+.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\lQZVD00+.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\Q5jLge9W.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\6+UQU8py.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\+Y6zX4xn.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\rBHaUNXq.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\ofRCM11H.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\6u2HU+dF.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\MLAYGK2T.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\oxxik+TQ.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\fg8wwVTD.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\zgS9TESC.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\C7YXJQRm.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\3q8jTOzB.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\W+3Rhojl.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\3IjY3V1c.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\LGJ5Z6kc.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\GImUAYxd.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\M+63oT1j.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\vH+7L112.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\+L0u95ta.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\V7mA8mtR.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\jcfGAIkR.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\vVBEW1pJ.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\GZBNijQh.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\JXD6g+Qw.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\RVq4q6uB.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\3s8Rk8YG.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\aonTs+te.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\qqgiXmUk.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\H0YzySzi.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\2AIv977H.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\TKWh6mGR.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\qtMC6Uvq.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\YgrIO0AS.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\XhRt8TRk.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\mHDpMyq+.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\eQC7Yiq4.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\QIKu8g2k.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\IK1zV3QD.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\Wpbjgfhd.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\oj938WGp.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\OEqoDrYs.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\vts2a1Ph.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\aYTYr7M+.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\FDZc7IXx.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\+uN+Fypk.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\AFyliuda.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\8iI5bdb0.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\5X1FTsIV.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\KhB1pm6w.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\0nE4lQGx.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\MWss8UiU.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\Re64np62.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\rQkaDNFP.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\L51nf9+D.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\vpDJxj8Z.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\P7j6Me++.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\y63PNPMn.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\6p5VbiuF.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\WuOUQbEs.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\pEMQBWTM.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\vi7vF58+.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\CbV+8AS5.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\ByM5+wQ5.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\08JhYsQE.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\qevJMstU.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\iS8yqL+p.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\9yHBIV3u.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\J5W+B25e.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\eRLlhnvf.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\IBKhVTd6.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\pqKmspeO.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\Lio8mho6.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\vZNHVN3Y.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\y87nzb9F.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\wkSihGZL.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\q19BGw6Z.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\iWQuMeNP.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\vSngv0ne.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\I+IlWViS.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\0KZZaE+L.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\atrf+OXu.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\KvkkhiJF.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\FCtN2sN4.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\yqse0x8H.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\pCVt5Avs.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\z+URmM9n.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\rHVjHDt6.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\v4p+3pZZ.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\SzBeBBsQ.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\zJCShUxU.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\T6iifKmq.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\Tnk6iSG8.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\0J6cGgD3.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\YMsC+8++.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\aL8gxnp7.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\7GCxWZoz.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\c1LfSyjX.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\E3KLc2md.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\g8bWzN0e.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\A+zYEr80.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\0mK79eem.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\JjoWAZI+.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\ZOv9IRGD.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\Hc8y5kXI.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\Du1engsm.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\XR5v2PSI.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\Wtmchrdp.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\2ZYXpc9N.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\GpGqnwHK.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\J7T2HRL0.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\Ka2oANMc.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\aCGkzy6C.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\RWHUFZ0p.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\5bPhoKfJ.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\YwsDh9s2.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\gA8VvpOh.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\EZDT+s03.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\LNv+QoAJ.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\7KvaIrVB.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\FoyXnfO0.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\09xnyP4s.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\+jdD32oZ.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\oeMMTVnk.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\X+UO0vPW.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\b2IYpIfI.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\MlQK+BGI.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\C1xD8tsJ.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\CUYBX82X.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\sp0B+4A5.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\DDhuPITV.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\3tFSsfb0.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\8S9skxmi.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\6dnW887A.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\qj2Pgzy1.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\rGg6Uwb2.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\PVNPIJ1N.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\e5rRYlY+.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\JJ8WgnKK.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\Gv1yAApu.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\sc9BKCxd.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\4k0T+IXK.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\iVJj9zp+.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\OihpRZTT.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\Vx+VE+TP.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\sy6k1yDx.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\zJXNr03C.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\PgHYTG4R.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\0BCV4bHf.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\QpaeVXxK.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\UvDMclVW.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\build-gz\WNRxpFSH.gz
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\blazor.boot.json
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\staticwebassets\msbuild.Entregable4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\staticwebassets\msbuild.build.Entregable4.props
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Entregable4.props
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Entregable4.props
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\scopedcss\bundle\Entregable4.styles.css
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\scopedcss\projectbundle\Entregable4.bundle.scp.css
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\Entregable4.csproj.CopyComplete
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\Entregable4.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\refint\Entregable4.dll
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\Entregable4.pdb
+C:\Users\Juand\ConstSoft_V\Entregable4\obj\Debug\net7.0\ref\Entregable4.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\Entregable4.csproj.AssemblyReference.cache
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\Entregable4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\Entregable4.AssemblyInfoInputs.cache
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\Entregable4.AssemblyInfo.cs
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\Entregable4.csproj.CoreCompileInputs.cache
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\Entregable4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\Entregable4.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\refint\Entregable4.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\Entregable4.pdb
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.4.zqitoqhnrt.js
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Entregable4.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Entregable4.pdb
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt.dat
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Entregable4.pdb.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Entregable4.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.4.zqitoqhnrt.js.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Entregable4.staticwebassets.runtime.json
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Entregable4.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Entregable4.pdb
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.CSharp.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.VisualBasic.Core.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Win32.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\Microsoft.Win32.Registry.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.AppContext.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Buffers.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Collections.Concurrent.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Collections.Immutable.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Collections.NonGeneric.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Collections.Specialized.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Collections.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.ComponentModel.Annotations.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.ComponentModel.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.ComponentModel.TypeConverter.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.ComponentModel.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Configuration.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Console.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Core.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Data.Common.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Data.DataSetExtensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Data.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Diagnostics.Contracts.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Diagnostics.Debug.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Diagnostics.Process.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Diagnostics.StackTrace.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Diagnostics.Tools.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Diagnostics.TraceSource.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Diagnostics.Tracing.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Drawing.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Drawing.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Dynamic.Runtime.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Formats.Asn1.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Formats.Tar.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Globalization.Calendars.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Globalization.Extensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Globalization.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.Compression.Brotli.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.Compression.FileSystem.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.Compression.ZipFile.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.Compression.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.FileSystem.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.FileSystem.Watcher.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.FileSystem.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.IsolatedStorage.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.MemoryMappedFiles.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.Pipes.AccessControl.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.Pipes.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.IO.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Linq.Expressions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Linq.Parallel.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Linq.Queryable.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Linq.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Memory.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.Http.Json.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.Http.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.HttpListener.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.Mail.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.NameResolution.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.NetworkInformation.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.Ping.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.Quic.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.Requests.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.Security.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.ServicePoint.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.Sockets.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.WebClient.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.WebHeaderCollection.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.WebProxy.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.WebSockets.Client.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.WebSockets.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Net.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Numerics.Vectors.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Numerics.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.ObjectModel.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Private.DataContractSerialization.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Private.Uri.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Private.Xml.Linq.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Private.Xml.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Reflection.DispatchProxy.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Reflection.Emit.Lightweight.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Reflection.Emit.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Reflection.Extensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Reflection.Metadata.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Reflection.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Reflection.TypeExtensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Reflection.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Resources.Reader.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Resources.ResourceManager.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Resources.Writer.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.Extensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.Handles.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.InteropServices.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.Intrinsics.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.Loader.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.Numerics.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.Serialization.Formatters.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.Serialization.Json.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.Serialization.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.Serialization.Xml.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.Serialization.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Runtime.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Security.AccessControl.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Security.Claims.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.Cng.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.Csp.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.Encoding.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.Primitives.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Security.Cryptography.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Security.Principal.Windows.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Security.Principal.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Security.SecureString.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Security.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.ServiceModel.Web.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.ServiceProcess.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Text.Encoding.Extensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Text.Encoding.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Text.RegularExpressions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Threading.Channels.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Threading.Overlapped.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Threading.Tasks.Extensions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Threading.Tasks.Parallel.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Threading.Tasks.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Threading.Thread.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Threading.ThreadPool.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Threading.Timer.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Threading.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Transactions.Local.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Transactions.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.ValueTuple.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Web.HttpUtility.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Web.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Windows.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Xml.Linq.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Xml.ReaderWriter.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Xml.Serialization.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Xml.XDocument.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Xml.XPath.XDocument.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Xml.XPath.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Xml.XmlDocument.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Xml.XmlSerializer.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Xml.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\WindowsBase.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\mscorlib.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\netstandard.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\System.Private.CoreLib.dll
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\dotnet.js
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\dotnet.timezones.blat
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\dotnet.wasm
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\icudt.dat
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\icudt_CJK.dat
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\icudt_EFIGS.dat
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\bin\Debug\net7.0\icudt_no_CJK.dat
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\wmczaUDG.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\pk5hnH1x.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\E4eUAq7o.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\TQsPe1Zu.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\Z5x4c+nU.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\Q16hKrqJ.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\iFs7F9Ve.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\ffzknD1S.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\12bGqx13.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\qDlJgUr0.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\oGgPE4GC.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\dDsSAfcc.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\6mjkrtzV.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\qGxoSu+c.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\e6Na2W0Y.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\oG5K5rV5.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\GyPTdc92.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\0+hqDwJn.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\1Kg0twXF.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\GCpOnVmC.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\fnous965.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\7GjtcNOt.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\qFpiL9+u.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\PpItfQrj.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\rSiR+GmK.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\93OMRVBP.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\ZoFWxCCq.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\qTts4Hdi.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\K0UmE9Gl.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\3lOrWi+o.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\Gfg+HQuh.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\PU5+Y3aS.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\m1YAZQ4N.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\ZLYOtRzf.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\MOg+XJR5.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\0XnMmbe9.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\SDU9S6HM.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\fOhVwKkd.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\RoT3Cnw+.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\0CeUMfDM.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\yhhFqk88.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\t+GqeDXd.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\nKNdRlg+.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\e4+Z50mA.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\1VF7CW4N.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\GoahRC6J.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\Tr8nYOvG.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\8znRi2Eq.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\cvZlwmJR.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\ZXiFoABG.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\Sj62DhzW.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\zpvHNrzU.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\nZLIKAtw.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\dM+SwfSc.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\fbFbhUEH.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\TBFGqjzJ.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\MPuKAFGM.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\yph5Xqfa.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\6+VX2gS2.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\zJMPrdnu.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\H9NL6bGz.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\I7pz+41K.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\2d064e9y.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\sWaP4hpq.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\Hx5Uo5yI.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\3myyodKx.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\sbMxizFe.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\N81KCKow.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\GQcb6tAT.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\DW+azand.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\bRcbYY8h.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\+wuQjgPp.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\Lx+jobEs.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\ds+GMK+l.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\TF8e+wo+.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\n7x+PYve.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\keVSDVLL.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\o9xb0oxD.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\5p2pp8Iq.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\kbLMeiAe.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\PUvfp2NX.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\E4fiD1H8.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\TPs6vAiT.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\KnJ+L6u4.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\WTVGGMkG.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\RoL9sIq4.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\2UoxvsPi.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\pmtq9iVX.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\C+ggcNwQ.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\9Y4rQ4Ru.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\FLK9714C.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\X+GmAU4y.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\OoNyumRf.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\16++HoQF.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\LjfMI9Dt.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\oufU+T22.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\tNtpMPFk.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\snrMwagX.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\Wzv9jW0x.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\3WmlS63z.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\N+k8dLi3.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\PYW9rDMW.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\QLU2bDqz.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\qyqcV2KR.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\VZRd0DLJ.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\X2pYQaFs.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\1MM91bPk.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\RW+IPPI8.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\c+C+uinD.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\9mc+L62v.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\6xIsIbjt.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\xFOQB4bA.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\ahsZeOK7.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\QXmNKi5i.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\ZXXt8PqT.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\aOPd+Kpb.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\bokr1cOH.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\zdiFcydB.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\euBRT9iW.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\G7VrRx9g.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\ve+MiNl1.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\tFNRNv6K.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\JmVcxpR+.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\mUGfPqNP.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\jzzTzeoe.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\x8z5EoxP.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\JPobAoTe.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\e16t4Fn1.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\PxVwloSB.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\Xu0c4Ume.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\feuwlzhw.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\Zg8VWdOS.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\teDf14kI.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\oWbaD5Ch.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\F9YTv222.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\+GjSKl4Z.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\1O9rKq4P.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\5CnYQfxC.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\7ld5AG5y.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\Dzv+F0tN.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\dJ7ouMVk.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\ast4aFOx.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\9LAspLbN.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\5rsojmIb.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\xjfwN3j+.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\JlRyEU6N.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\YyBSDFAA.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\TMMiAk0p.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\gxeRn9PS.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\pjiUA9e8.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\vzqUQyFm.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\mNtu9irr.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\cBgpsPZb.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\wZbxf9kB.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\vivoOh4d.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\qDqOyDkF.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\xT4+39iG.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\BDQ9Uzmd.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\kJBlkQbx.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\oUog6YXE.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\iF1BBnoi.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\fEwgBfrO.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\qxjbIAqE.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\f2G6RuZQ.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\7n4vtHA5.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\WcSvpqmu.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\q8cUiVT1.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\mqryVVV0.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\KYLJnlV+.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\Ri667M04.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\Ys1vcXAh.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\Owsoduih.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\D5OwaW6P.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\doJetbNp.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\X6dFYzCv.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\ma+2wStJ.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\ml+uGkLz.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\17vy6098.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\JiOcZcuN.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\LiW3NzZ7.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\PkjTSQ8K.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\+XKRGYz4.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\z3HD+slI.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\6KoFElBZ.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\KXhG6OQI.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\5mLtusKi.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\vzAPHQ6a.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\y5fO7I2N.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\y8pad4bs.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\UlXlOdEa.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\ai25J0ga.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\S7YBdGJ8.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\cl9JH4Sa.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\2xKOSx+a.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\SEun+q8a.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\zC1rvnGN.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\3RI6ERiJ.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\vj8uPqXA.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\r3GpzKO6.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\+P5QNDkT.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\build-gz\xMKOIsXz.gz
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\blazor.boot.json
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\staticwebassets\msbuild.Entregable4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\staticwebassets\msbuild.build.Entregable4.props
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Entregable4.props
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Entregable4.props
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\scopedcss\bundle\Entregable4.styles.css
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\scopedcss\projectbundle\Entregable4.bundle.scp.css
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\Entregable4.csproj.CopyComplete
+C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\obj\Debug\net7.0\ref\Entregable4.dll

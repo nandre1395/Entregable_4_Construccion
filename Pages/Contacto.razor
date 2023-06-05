@@ -1,0 +1,55 @@
+@page "/contacto"
+
+<form @onsubmit="sendData" style="margin: 3rem;">
+  <div class="form-group">
+    <label>Nombre</label>
+    <input @bind="Nombre" type="text" class="form-control">
+  </div>
+  <div class="form-group">
+    <label>Correo</label>
+    <input @bind="Correo" type="email" class="form-control">
+  </div>
+   <div class="form-group">
+    <label>Telefono</label>
+    <input @bind="Telefono" type="text" class="form-control">
+  </div>
+  <div class="form-group">
+    <label>Mensaje</label>
+    <input @bind="Mensaje" type="text" class="form-control">
+  </div>
+  <button class="btn btn-info">Enviar</button>
+</form>
+<hr>
+<ul>
+    @foreach(Formulario form in formularios) {
+        <h2>Hola, soy  @form.Nombre, quiero contactarme con ustedes por lo siguiente: <br> @form.Mensaje <br> Pueden comunicarse conmigo en: <br> Correo electronico: @form.Correo <br> Telefono: @form.Telefono</h2>
+    }
+</ul>
+
+@code {
+    private string? Nombre {set;get;}
+    private string? Correo {set;get;}
+    private string? Telefono {set;get;}
+    private string? Mensaje {set;get;}
+    private List<Formulario> formularios = new List<Formulario>();
+
+    private void sendData(){
+        if(this.Nombre != "" && this.Correo != "" && this.Telefono != "" && this.Mensaje != ""){
+            this.formularios.Add(new Formulario(this.Nombre, this.Correo, this.Telefono, this.Mensaje));
+        }
+    }
+
+    public class Formulario {
+        public string Nombre;
+        public string Correo;
+         public string Telefono;
+         public string Mensaje;
+
+        public Formulario(string N, string C, string T, string M){
+            this.Nombre = N;
+            this.Correo = C;
+            this.Telefono= T;
+            this.Mensaje= M;
+        } 
+    }
+}

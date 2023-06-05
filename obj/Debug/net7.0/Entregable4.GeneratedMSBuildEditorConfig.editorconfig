@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Entregable4
+build_property.RootNamespace = Entregable4
+build_property.ProjectDir = C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Wes Vanegas\Downloads\Entregable4_Vane\Entregable4
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Wes Vanegas/Downloads/Entregable4_Vane/Entregable4/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wes Vanegas/Downloads/Entregable4_Vane/Entregable4/Pages/Contacto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wes Vanegas/Downloads/Entregable4_Vane/Entregable4/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wes Vanegas/Downloads/Entregable4_Vane/Entregable4/Pages/PageApi.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZUFwaS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wes Vanegas/Downloads/Entregable4_Vane/Entregable4/Pages/PageApiDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZUFwaURldGFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wes Vanegas/Downloads/Entregable4_Vane/Entregable4/Pages/Profile.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wes Vanegas/Downloads/Entregable4_Vane/Entregable4/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wes Vanegas/Downloads/Entregable4_Vane/Entregable4/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wes Vanegas/Downloads/Entregable4_Vane/Entregable4/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5zxt2zu0s8
+
+[C:/Users/Wes Vanegas/Downloads/Entregable4_Vane/Entregable4/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-1obxrd1hif
